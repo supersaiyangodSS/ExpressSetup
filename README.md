@@ -8,7 +8,7 @@ This is a Node.js Express project that serves as a basic starting point for web 
 - Uses Nodemon for automatic server restart during development
 - Provides a basic project structure to build upon
 - Added support for multiple package managers: npm and pnpm.
-- Added.gitignore file to exclude node_modules.
+- Added .gitignore file to exclude node_modules.
 
 ## Prerequisites
 - Node.js and npm should be installed on your machine. You can download them from [here](https://nodejs.org).
